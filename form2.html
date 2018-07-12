@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style1.css"/>
+		<link rel="icon" type="image/ico" href="pictures/slika24.ico">
+		<title> Registraciaja </title>
+	</head>
+	
+	<body>
+		<form action="" method="post">
+			<fieldset> <legend> Licni Podaci </legend>
+				<table id="table1"> 				
+					<tr>
+						<th colspan="2" align="center"> Registracija Korisnika </th>
+					</tr>
+					<tr>
+						<td> Ime: </td>
+						<td> <input type="text" name="text1" id="text1"/> </td>
+					</tr>
+					<tr>
+						<td> Prezime: </td>
+						<td> <input type="text" name="text1" id="text2"/> </td>
+					</tr>
+					<tr>
+						<td> Datum Rodjenja: </td>
+						<td> <input type="date" name="date1" id="date1"/> </td>
+					</tr>
+					<tr>
+						<td> Pol </td>
+						<td> <label for="muski"> Muski </label>
+							<input type="radio" name="pol" id="muski"/> <br/>
+							<label for="muski"> Zenski </label>
+							<input type="radio" name="pol" id="zenski"/>
+						</td>
+					</tr>
+				</table>
+			</fieldset>
+			<fieldset> <legend> Podaci o nalogu </legend>
+				<table id="table2">
+					<tr>
+						<td> Korisnicko ime </td>
+						<td> <input type="text" name="text1" id="text3"/> </td>
+					</tr>
+					<tr>
+						<td> Password </td>
+						<td> <input type="password" name="password1" id="password2"/> </td>
+					</tr>
+					<tr>
+						<td> Repeat password </td>
+						<td> <input type="password" name="password1" id="password3"/> </td>
+					</tr>
+					<tr>
+						<td> <input type="submit" name="button1" id="button2" value="Register"/> </td>
+						<td> <input type="reset" name="res1" id="res2" value="Reset"/> </td>
+					</tr>
+				</table>
+			</fieldset>
+		</form>
+	</body>
+</html>

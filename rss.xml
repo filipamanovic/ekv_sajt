@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<rss version="2.0">
+		<channel>
+			<item>
+				<title>     Kao da je bilo nekad   </title>
+				<description> Upoznajte jedan od najboljih bendova Ex Yu rock scene! EKV, Ekatarina Velika, Milan Mladenovic, Muzika, Ex Yu Bend, Margita Stefanovic, Kao da je bilo nekad..  </description>
+				<link>		https://kaodajebilonekad.000webhostapp.com/index.html	</link>
+			</item>
+			
+			<item>
+				<title>    Članovi    </title>
+				<description>  Članovi kultnog benda Ekv: Milan Mladenovic, Margita Stefanovic i Bojan Pecar </description>
+				<link>	https://kaodajebilonekad.000webhostapp.com/clanovi.html		</link>
+			</item>
+			
+			<item>
+				<title>   Albumi     </title>
+				<description> Jedni od najboljih albuma ex yu scene: Ljubav, Par godina za nas, S vetrom u lice, Dum dum... </description>
+				<link>	https://kaodajebilonekad.000webhostapp.com/albumi.html		</link>
+			</item>
+			
+			<item>
+				<title>    Istorija    </title>
+				<description> Istorija benda Ekatarina velika </description>
+				<link>		https://kaodajebilonekad.000webhostapp.com/istorija.html	</link>
+			</item>
+			
+			<item>
+				<title>    O autoru    </title>
+				<description> Kratka biografija </description>
+				<link>		https://kaodajebilonekad.000webhostapp.com/oautoru.html	</link>
+			</item>
+			
+		</channel>
+	</rss>

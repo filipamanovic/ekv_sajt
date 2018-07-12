@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://kaodajebilonekad.000webhostapp.com/index.html</loc>
+  <priority>1.00</priority>
+  <lastmod>2016-12-03</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://kaodajebilonekad.000webhostapp.com/form2.html</loc>
+  <priority>0.70</priority>
+  <lastmod>2016-12-03</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://kaodajebilonekad.000webhostapp.com/form1.html</loc>
+  <priority>0.70</priority>
+  <lastmod>2016-12-03</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://kaodajebilonekad.000webhostapp.com/clanovi.html</loc>
+  <priority>0.90</priority>
+  <lastmod>2016-12-03</lastmod>
+    <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaodajebilonekad.000webhostapp.com/albumi.html</loc>
+  <priority>0.90</priority>
+ <lastmod>2016-12-03</lastmod>
+    <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaodajebilonekad.000webhostapp.com/istorija.html</loc>
+  <priority>0.60</priority>
+ <lastmod>2016-12-03</lastmod>
+    <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaodajebilonekad.000webhostapp.com/oautoru.html</loc>
+  <priority>0.70</priority>
+ <lastmod>2016-12-03</lastmod>
+    <changefreq>yearly</changefreq>
+</url>
+</urlset>

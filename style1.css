@@ -1,0 +1,101 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	background:#001076;
+}
+
+legend
+{
+	background:red;
+}	
+
+#okvir2
+{
+	width:100%;
+}
+
+#forma1
+{
+	width:300px;
+	height:150px;
+	background:#BEFF4D;
+	margin:0px auto;
+	margin-top:50px;
+	border-radius:10px;
+	border:1px solid black;
+} 
+
+.pera
+{
+	padding-left:50px;
+	padding-top:5px;
+}
+
+#user_name
+{
+	margin-left:50px;
+	
+}
+
+#password1
+{
+	margin-left:50px;	
+}
+
+#button1
+{
+	margin-top:10px;
+	margin-left:70px;
+	padding:5px;
+}
+
+#res1
+{
+	padding:5px;
+}
+
+fieldset
+{
+	width:340px;
+	background:#BEFF4D;
+	margin:0px auto;
+	margin-top:50px;
+	border-radius:10px;
+	box-sizing: border-box;
+}
+
+#table1
+{
+	margin:10px;
+}
+
+#table2
+{
+	margin:10px;	
+}
+
+#button2
+{
+	margin-top:10px;
+	margin-left:70px;
+	padding:5px;
+}
+
+#res2
+{
+	padding:5px;
+	margin-top:10px;
+}
+
+
+
+
+
+
+
+
